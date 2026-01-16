@@ -92,11 +92,11 @@ Atuo no desenvolvimento de **APIs REST**, sistemas distribuídos, automações e
 
 ## 📫 Vamos nos conectar?
 
-- 💼 LinkedIn: **[adicione aqui seu link]**
-- 💻 GitHub: **[seu-usuário]**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/henrique-cbueno/]**
 
 Estou sempre aberto a trocar ideias sobre **backend, arquitetura, microsserviços e IA aplicada**.
 
 ---
 
 ⭐ *Se algum projeto aqui te ajudou ou chamou atenção, fique à vontade para deixar uma estrela ou entrar em contato.*
+
