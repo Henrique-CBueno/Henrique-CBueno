@@ -1,78 +1,102 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1307487989231915069/1324060245106102305/ft_perfil.jpg?ex=6776c6b2&is=67757532&hm=8e98826083af98e1698a926707266c88af3fdd2d7063f661590677b856428d14&"  />
-</div>
+# 👋 Olá, eu sou Desenvolvedor Back-end Spring Boot
 
-###
+Sou **Desenvolvedor Back-end** com foco em **Java, Spring Boot e Arquitetura de Microsserviços**, construindo sistemas escaláveis, seguros e preparados para alta performance.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/henrique-bueno-6a1b94316/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/henriquecarusobueno_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://criarmeulink.com.br/u/1735751570" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+Atuo no desenvolvimento de **APIs REST**, sistemas distribuídos, automações e soluções SaaS que integram **cloud, mensageria e inteligência artificial** para resolver problemas reais de negócio.
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🚀 Sobre mim
 
-###
+- 💻 Desenvolvedor Back-end com experiência em **Spring Boot e Java**
+- 🧩 Forte atuação com **Microsserviços, APIs REST e Arquitetura Backend**
+- ☁️ Experiência com **AWS**, **Docker** e **Infraestrutura como Código**
+- 🤖 Integração de **IA (LLMs)** em aplicações reais
+- ⚡ Foco em **performance, escalabilidade e segurança**
+- 🌍 Buscando oportunidades para gerar impacto com tecnologia
 
-<h2 align="left">👩‍💻  About Me</h2>
+---
 
-###
+## 🛠️ Stack Principal
 
-<h3 align="left">I'm Henrique from Brazil<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning FullStack Development<br>- ⚡ In my free time I like to study new features</h3>
+### Backend
+- **Java**
+- **Spring Boot**
+- Spring Security
+- OpenFeign
+- Eureka Server
 
-###
+### Arquitetura & Mensageria
+- Microsserviços
+- RabbitMQ
+- Comunicação síncrona e assíncrona
 
-<h3 align="left">🛠 Language and tools</h3>
+### Cloud & Infra
+- AWS (S3)
+- Docker
+- Terraform
+- VPS com ferramentas open source
 
-###
+### Banco de Dados
+- PostgreSQL (replicação e performance)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
+### Frontend (experiência complementar)
+- React.js
 
-###
+### IA & Automações
+- Python
+- LangChain
+- LLMs
+- Automações de processos
 
-<img src="https://raw.githubusercontent.com/Henrique-CBueno/Henrique-CBueno/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📌 Projetos em Destaque
 
-<h1 align="left">My Stats ⭐</h1>
+### 📚 Plataforma SaaS de Flashcards com IA
+- Backend em **Spring Boot** com arquitetura de **microsserviços**
+- Worker assíncrono em **Python + LangChain**
+- **RabbitMQ** para processamento pesado
+- **Keycloak + Spring Security + 2FA**
+- **AWS S3**, **Docker** e **PostgreSQL**
+- Integração com **Mercado Pago** via webhooks
 
-###
+👉 Sistema escalável, seguro e preparado para alto volume de processamento.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-CBueno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-CBueno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🏢 Sistema NegociaDF
+- Atuação no backend com **Java e Spring Boot**
+- Correção de bugs críticos e implementação de novas features
+- Melhoria significativa da **experiência do usuário**
+- Desenvolvimento de **automações em Python**, economizando +3h semanais por membro da equipe
+
+---
+
+## 📈 O que eu valorizo em código
+
+- Código limpo e bem estruturado
+- Boas práticas de arquitetura
+- Testes e segurança desde o início
+- Sistemas preparados para escalar
+- Comunicação clara entre serviços
+
+---
+
+## 🌍 Idiomas
+
+- 🇺🇸 Inglês — Avançado  
+- 🇩🇪 Alemão — Básico  
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 💼 LinkedIn: **[adicione aqui seu link]**
+- 💻 GitHub: **[seu-usuário]**
+
+Estou sempre aberto a trocar ideias sobre **backend, arquitetura, microsserviços e IA aplicada**.
+
+---
+
+⭐ *Se algum projeto aqui te ajudou ou chamou atenção, fique à vontade para deixar uma estrela ou entrar em contato.*
